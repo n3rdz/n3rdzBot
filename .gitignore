@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.tmp
+cocktailbot/data/*.tmp
+
+# Lokale Backups der Einstellungen
+backups/
+
+# Secrets niemals einchecken
+*paypal*.env
+*.env
+secrets*

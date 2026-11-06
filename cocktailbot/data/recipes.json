@@ -1,0 +1,2273 @@
+[
+  {
+    "id": 1,
+    "name": "Big John",
+    "category": "cocktails",
+    "description": "Fruchtiger Cocktail mit Rum, Ananas und Maracuja",
+    "image": "big_john.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 120,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 120,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 310,
+    "sort_order": 0
+  },
+  {
+    "id": 2,
+    "name": "Malibu Ananas",
+    "category": "cocktails",
+    "description": "Süßer Kokoslikör mit Ananassaft",
+    "image": "malibu_ananas.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 2,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 220,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 300,
+    "sort_order": 1
+  },
+  {
+    "id": 3,
+    "name": "Malibu Sunrise",
+    "category": "cocktails",
+    "description": "Kokoslikör mit Orangensaft und Grenadine",
+    "image": "malibu_sunrise.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 2,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 200,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 300,
+    "sort_order": 2
+  },
+  {
+    "id": 4,
+    "name": "Peaches Cream",
+    "category": "cocktails",
+    "description": "Fruchtiger Cocktail mit Pfirsichlikör und Vodka",
+    "image": "peaches_cream.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 4,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 200,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 310,
+    "sort_order": 3
+  },
+  {
+    "id": 5,
+    "name": "Planters Punch",
+    "category": "cocktails",
+    "description": "Klassischer Rum-Cocktail mit Fruchtsäften",
+    "image": "planters_punch.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 290,
+    "sort_order": 4
+  },
+  {
+    "id": 6,
+    "name": "Solero",
+    "category": "cocktails",
+    "description": "Erfrischender Cocktail mit Maracuja und Vanille",
+    "image": "solero.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 10,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 280,
+    "sort_order": 5
+  },
+  {
+    "id": 7,
+    "name": "Sex on the Beach",
+    "category": "cocktails",
+    "description": "Beliebter Cocktail mit Vodka und Pfirsichlikör",
+    "image": "sex_on_the_beach.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 3,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 4,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 90,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 90,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 300,
+    "sort_order": 6
+  },
+  {
+    "id": 8,
+    "name": "Mojito",
+    "category": "cocktails",
+    "description": "Klassischer Cocktail mit Rum, Limette und Minze",
+    "image": "mojito.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 19,
+        "amount_ml": 100,
+        "manual": true,
+        "delayed": false,
+        "instruction": "100ml Sprudelwasser hinzufügen"
+      }
+    ],
+    "instructions": [
+      "Frische Minzblätter ins Glas geben",
+      "Limettenstücke hinzufügen"
+    ],
+    "base_volume_ml": 220,
+    "sort_order": 7
+  },
+  {
+    "id": 9,
+    "name": "Passion Colada",
+    "category": "cocktails",
+    "description": "Exotischer Cocktail mit Rum, Malibu und Maracuja",
+    "image": "passion_colada.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 2,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 200,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 280,
+    "sort_order": 8
+  },
+  {
+    "id": 10,
+    "name": "Long Island Iced Tea",
+    "category": "cocktails",
+    "description": "Klassischer, starker Cocktail mit fünf verschiedenen Spirituosen und Cola",
+    "image": "long_island_iced_tea.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 7,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 6,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 5,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 17,
+        "amount_ml": 150,
+        "manual": true,
+        "delayed": false,
+        "instruction": "150ml Cola hinzufügen"
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 255,
+    "sort_order": 9
+  },
+  {
+    "id": 11,
+    "name": "Bahama Mama",
+    "category": "cocktails",
+    "description": "Tropischer Cocktail mit Braunem Rum, Malibu und Fruchtsäften",
+    "image": "bahama_mama.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 2,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 290,
+    "sort_order": 10
+  },
+  {
+    "id": 12,
+    "name": "Swimming Pool",
+    "category": "cocktails",
+    "description": "Blauer, tropischer Cocktail mit Vodka und Ananassaft",
+    "image": "swimming_pool.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 3,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 180,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 20,
+        "amount_ml": 20,
+        "manual": true,
+        "delayed": false,
+        "instruction": "20ml Sahne hinzufügen"
+      },
+      {
+        "ingredient_id": 21,
+        "amount_ml": 20,
+        "manual": true,
+        "delayed": false,
+        "instruction": "20ml Cream of Coconut hinzufügen"
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 310,
+    "sort_order": 11
+  },
+  {
+    "id": 13,
+    "name": "Tequila Sunrise",
+    "category": "cocktails",
+    "description": "Klassischer Cocktail mit Tequila, Orangensaft und Grenadine",
+    "image": "tequila_sunrise.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 6,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 220,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 300,
+    "sort_order": 12
+  },
+  {
+    "id": 14,
+    "name": "Touch Down",
+    "category": "cocktails",
+    "description": "Fruchtiger Cocktail mit Braunem Rum, Triple Sec und Maracujasaft",
+    "image": "touch_down.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 7,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 140,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 270,
+    "sort_order": 13
+  },
+  {
+    "id": 15,
+    "name": "Zombie",
+    "category": "cocktails",
+    "description": "Starker, fruchtiger Cocktail mit Braunem Rum und verschiedenen Fruchtsäften",
+    "image": "zombie.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 7,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 290,
+    "sort_order": 14
+  },
+  {
+    "id": 16,
+    "name": "Mai Tai",
+    "category": "cocktails",
+    "description": "Klassischer Tiki-Cocktail mit braunem Rum und Mandelsirup",
+    "image": "Mai_Tai.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 7,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 15,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 160,
+    "sort_order": 15
+  },
+  {
+    "id": 17,
+    "name": "Tropical Sunrise",
+    "category": "alkoholfrei",
+    "description": "Erfrischender alkoholfreier Cocktail mit Ananas, Orange und Grenadine",
+    "image": "tropical-sunrise.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 120,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 120,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 270,
+    "sort_order": 16
+  },
+  {
+    "id": 18,
+    "name": "Passion Fizz",
+    "category": "alkoholfrei",
+    "description": "Sprudelnder alkoholfreier Cocktail mit Maracuja und Sodawasser",
+    "image": "passion-fizz.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 10,
+        "amount_ml": 150,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 19,
+        "amount_ml": 100,
+        "manual": true,
+        "delayed": false,
+        "instruction": "100ml Sprudelwasser hinzufügen"
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 280,
+    "sort_order": 17
+  },
+  {
+    "id": 19,
+    "name": "Orange Vanilla Dream",
+    "category": "alkoholfrei",
+    "description": "Cremiger alkoholfreier Cocktail mit Orange und Vanille",
+    "image": "orange-vanilla-dream.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 11,
+        "amount_ml": 200,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 19,
+        "amount_ml": 70,
+        "manual": true,
+        "delayed": false,
+        "instruction": "70ml Sprudelwasser hinzufügen"
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 300,
+    "sort_order": 18
+  },
+  {
+    "id": 20,
+    "name": "Citrus Splash",
+    "category": "alkoholfrei",
+    "description": "Fruchtiger alkoholfreier Cocktail mit Grenadine und Zitrusfrüchten",
+    "image": "citrus-splash.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 13,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 19,
+        "amount_ml": 50,
+        "manual": true,
+        "delayed": false,
+        "instruction": "50ml Sprudelwasser hinzufügen"
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 300,
+    "sort_order": 19
+  },
+  {
+    "id": 21,
+    "name": "Pineapple Passion",
+    "category": "alkoholfrei",
+    "description": "Exotischer alkoholfreier Cocktail mit Ananas und Maracuja",
+    "image": "pineapple-passion.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 150,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 280,
+    "sort_order": 20
+  },
+  {
+    "id": 22,
+    "name": "Citrus Cooler",
+    "category": "alkoholfrei",
+    "description": "Erfrischender alkoholfreier Cocktail mit Limette und Sodawasser",
+    "image": "citrus-cooler.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 12,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 19,
+        "amount_ml": 200,
+        "manual": true,
+        "delayed": false,
+        "instruction": "200ml Sprudelwasser hinzufügen"
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 270,
+    "sort_order": 21
+  },
+  {
+    "id": 23,
+    "name": "Tropical Sunset",
+    "category": "alkoholfrei",
+    "description": "Schöner Farbverlauf mit Ananas, Orange und Grenadine",
+    "image": "tropical-sunset.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 120,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [
+      "Glas zur Hälfte mit Eis füllen (Eiswürfel: 200g)",
+      "Als Garnitur am Glasrand (Orangenscheibe: 1 Scheibe)"
+    ],
+    "base_volume_ml": 215,
+    "sort_order": 22
+  },
+  {
+    "id": 24,
+    "name": "Pineapple Lime Fizz",
+    "category": "alkoholfrei",
+    "description": "Erfrischender Cocktail mit Ananas und Limette",
+    "image": "pineapple-lime-fizz.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 150,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [
+      "Zum Auffüllen und für den Fizz-Effekt (Sprudelwasser: 50ml)",
+      "Als Garnitur (Limettenscheibe: 1 Scheibe)"
+    ],
+    "base_volume_ml": 190,
+    "sort_order": 23
+  },
+  {
+    "id": 25,
+    "name": "Passion Paradise",
+    "category": "alkoholfrei",
+    "description": "Exotischer Cocktail mit Maracuja und tropischen Früchten",
+    "image": "passion-paradise.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 10,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 15,
+        "amount_ml": 15,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [
+      "Für tropisches Feeling (Crushed Ice: 150g)",
+      "Als Topping obendrauf (Maracuja-Fruchtfleisch: 1 TL)"
+    ],
+    "base_volume_ml": 235,
+    "sort_order": 24
+  },
+  {
+    "id": 26,
+    "name": "Vanilla Orange Dream",
+    "category": "alkoholfrei",
+    "description": "Cremiger Traum mit Vanille und Orange",
+    "image": "vanilla-orange-dream.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 11,
+        "amount_ml": 120,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 25,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [
+      "Vorsichtig obendrauf gießen für Schichteffekt (Sahne: 20ml)",
+      "Als aromatisches Topping (Orangenzest: 1 Prise)"
+    ],
+    "base_volume_ml": 215,
+    "sort_order": 25
+  },
+  {
+    "id": 27,
+    "name": "Grenadine Sunrise",
+    "category": "alkoholfrei",
+    "description": "Wunderschöner Sonnenaufgang im Glas",
+    "image": "grenadine-sunrise.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 11,
+        "amount_ml": 100,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [
+      "Glas komplett mit Eis füllen (Eiswürfel: 200g)",
+      "Langsam am Glasrand hinunterlaufen lassen für Sunrise-Effekt (Grenadine extra: 5ml)"
+    ],
+    "base_volume_ml": 210,
+    "sort_order": 26
+  },
+  {
+    "id": 28,
+    "name": "Caribbean Sunset",
+    "category": "cocktails",
+    "description": "Tropischer Cocktail mit Rum, Malibu und Blue Curacao",
+    "image": "caribbean-sunset.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 2,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 27
+  },
+  {
+    "id": 29,
+    "name": "Night in Blue",
+    "category": "cocktails",
+    "description": "Blauer Cocktail mit Malibu und Ananassaft",
+    "image": "night-in-blue.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 2,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 60,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 120,
+    "sort_order": 28
+  },
+  {
+    "id": 30,
+    "name": "El Mariachi",
+    "category": "cocktails",
+    "description": "Mexikanischer Cocktail mit Tequila und Vodka",
+    "image": "el-mariachi.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 6,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 100,
+    "sort_order": 29
+  },
+  {
+    "id": 31,
+    "name": "Green Eyes",
+    "category": "cocktails",
+    "description": "Grüner Cocktail mit Blue Curacao und Vodka",
+    "image": "green-eyes.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 8,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 80,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 140,
+    "sort_order": 30
+  },
+  {
+    "id": 32,
+    "name": "Hot Legs",
+    "category": "cocktails",
+    "description": "Tropischer Cocktail mit Malibu, Rum und Blue Curaçao",
+    "image": "hot-legs.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 2,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 1,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 110,
+    "sort_order": 31
+  },
+  {
+    "id": 33,
+    "name": "Tropical Fusion",
+    "category": "cocktails",
+    "description": "Fusion aus Rum, Vodka und tropischen Früchten",
+    "image": "tropical-fusion.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 140,
+    "sort_order": 32
+  },
+  {
+    "id": 34,
+    "name": "Sunny Fizz",
+    "category": "cocktails",
+    "description": "Sonniger Cocktail mit Rum, Malibu und tropischen Säften",
+    "image": "sunny-fizz.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 2,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 33
+  },
+  {
+    "id": 35,
+    "name": "Donnergurgler",
+    "category": "cocktails",
+    "description": "Kräftiger Cocktail mit Rum, Vodka und Blue Curacao",
+    "image": "donnergurgler.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 3,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 34
+  },
+  {
+    "id": 36,
+    "name": "Don Juan",
+    "category": "cocktails",
+    "description": "Eleganter Cocktail mit Tequila und Blue Curacao",
+    "image": "don-juan.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 6,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 110,
+    "sort_order": 35
+  },
+  {
+    "id": 37,
+    "name": "Tropical Derby",
+    "category": "cocktails",
+    "description": "Komplexer Gin-Cocktail mit tropischen Früchten",
+    "image": "tropical-derby.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 5,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 150,
+    "sort_order": 36
+  },
+  {
+    "id": 38,
+    "name": "Vanity",
+    "category": "cocktails",
+    "description": "Eleganter Gin-Cocktail mit Ananas und Blue Curacao",
+    "image": "vanity.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 5,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 90,
+    "sort_order": 37
+  },
+  {
+    "id": 39,
+    "name": "Grauer Panther",
+    "category": "cocktails",
+    "description": "Exotischer Cocktail mit Malibu, Blue Curacao und Grenadine",
+    "image": "grauer-panther.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 2,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 1,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 120,
+    "sort_order": 38
+  },
+  {
+    "id": 40,
+    "name": "Sweet Cocktail",
+    "category": "cocktails",
+    "description": "Süßer Cocktail mit Rum und Blue Curacao",
+    "image": "sweet-cocktail.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 39
+  },
+  {
+    "id": 41,
+    "name": "Holiday",
+    "category": "cocktails",
+    "description": "Urlaubscocktail mit Tequila, Blue Curacao und Pfirsichlikör",
+    "image": "holiday.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 6,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 4,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 140,
+    "sort_order": 40
+  },
+  {
+    "id": 42,
+    "name": "Barbados",
+    "category": "cocktails",
+    "description": "Karibischer Cocktail mit Rum, Blue Curacao und Orangensaft",
+    "image": "barbados.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 8,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 110,
+    "sort_order": 41
+  },
+  {
+    "id": 43,
+    "name": "Bora Bora",
+    "category": "alkoholfrei",
+    "description": "Alkoholfreier tropischer Cocktail mit Ananas und Maracuja",
+    "image": "bora-bora.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 120,
+    "sort_order": 42
+  },
+  {
+    "id": 44,
+    "name": "Sport'n Juicy",
+    "category": "alkoholfrei",
+    "description": "Erfrischender alkoholfreier Fruchtcocktail",
+    "image": "sport-n-juicy.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 43
+  },
+  {
+    "id": 45,
+    "name": "Targa 911",
+    "category": "alkoholfrei",
+    "description": "Sportlicher alkoholfreier Cocktail mit tropischen Früchten",
+    "image": "targa-911.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 10,
+        "amount_ml": 30,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 44
+  },
+  {
+    "id": 46,
+    "name": "Maro",
+    "category": "alkoholfrei",
+    "description": "Alkoholfreier Cocktail mit Maracuja und Orange",
+    "image": "maro.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 10,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 100,
+    "sort_order": 45
+  },
+  {
+    "id": 47,
+    "name": "Coconut Kiss",
+    "category": "alkoholfrei",
+    "description": "Alkoholfreier Kokos-Cocktail mit tropischen Früchten",
+    "image": "coconut-kiss.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 13,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": true,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 16,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 130,
+    "sort_order": 46
+  },
+  {
+    "id": 48,
+    "name": "Virgin Colada",
+    "category": "alkoholfrei",
+    "description": "Alkoholfreie Pina Colada mit Kokossirup",
+    "image": "virgin-colada.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 9,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 16,
+        "amount_ml": 20,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 120,
+    "sort_order": 47
+  },
+  {
+    "id": 49,
+    "name": "Virgin Solero",
+    "category": "alkoholfrei",
+    "description": "Alkoholfreier Solero mit Maracuja und Vanille",
+    "image": "virgin-solero.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 10,
+        "amount_ml": 50,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 11,
+        "amount_ml": 40,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 14,
+        "amount_ml": 10,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 110,
+    "sort_order": 48
+  },
+  {
+    "id": 50,
+    "name": "Malibu Colada",
+    "category": "cocktails",
+    "description": "",
+    "image": "malibu_colada.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 2,
+        "amount_ml": 80.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 150.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 21,
+        "amount_ml": 0,
+        "manual": true,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 0,
+    "sort_order": 49
+  },
+  {
+    "id": 51,
+    "name": "Gin & Tonic",
+    "category": "cocktails",
+    "description": "",
+    "image": "gin-tonic.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 5,
+        "amount_ml": 50.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 18,
+        "amount_ml": 150.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 23,
+        "amount_ml": 0,
+        "manual": true,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 0,
+    "sort_order": 50
+  },
+  {
+    "id": 52,
+    "name": "Cuba Libre",
+    "category": "cocktails",
+    "description": "",
+    "image": "cuba-libre.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 1,
+        "amount_ml": 50.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 17,
+        "amount_ml": 150.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 10.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 0,
+    "sort_order": 51
+  },
+  {
+    "id": 53,
+    "name": "Almond Citrus Cooler",
+    "category": "alkoholfrei",
+    "description": "",
+    "image": "almondcitruscooler.jpg",
+    "ingredients": [
+      {
+        "ingredient_id": 11,
+        "amount_ml": 80.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 12,
+        "amount_ml": 40.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 9,
+        "amount_ml": 60.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 15,
+        "amount_ml": 20.0,
+        "manual": false,
+        "delayed": false,
+        "instruction": ""
+      },
+      {
+        "ingredient_id": 19,
+        "amount_ml": 80.0,
+        "manual": true,
+        "delayed": false,
+        "instruction": "80 ml"
+      },
+      {
+        "ingredient_id": 24,
+        "amount_ml": 0,
+        "manual": true,
+        "delayed": false,
+        "instruction": "1 TL"
+      }
+    ],
+    "instructions": [],
+    "base_volume_ml": 0,
+    "sort_order": 52
+  }
+]

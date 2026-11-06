@@ -1,0 +1,50 @@
+{
+  "port": 3000,
+  "default_size_ml": 200,
+  "sizes_ml": [
+    200,
+    300,
+    400
+  ],
+  "strength_enabled": true,
+  "cocktails_per_page": 10,
+  "active_low": true,
+  "led_enabled": false,
+  "pico_port": "/dev/ttyACM0",
+  "clean_seconds": 15,
+  "vent_seconds": 5,
+  "api_token": "",
+  "settings_password": "",
+  "theme": {
+    "accent": "#c6ff00",
+    "background": "#0d0f0a"
+  },
+  "recipe_sort_mode": "original",
+  "prices": {
+    "enabled": false,
+    "currency": "€",
+    "category_default": {
+      "cocktails": 6.5,
+      "alkoholfrei": 4.5,
+      "shots": 3.0
+    },
+    "category_size": {},
+    "recipe_size": {},
+    "recipe": {},
+    "free": []
+  },
+  "wled": {
+    "enabled": false,
+    "status": {
+      "ready": "",
+      "busy": "",
+      "error": "",
+      "done": ""
+    }
+  },
+  "paypal": {
+    "enabled": false,
+    "test_mode": true,
+    "brand_name": "CocktailBot"
+  }
+}

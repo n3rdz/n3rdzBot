@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Brauner Rum",
+    "abv": 40,
+    "automatic": true,
+    "price_per_liter": 15,
+    "level_ml": 700,
+    "capacity_ml": 700,
+    "image": "brauner-rum.svg"
+  },
+  {
+    "id": 2,
+    "name": "Malibu",
+    "abv": 21,
+    "automatic": true,
+    "price_per_liter": 13,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "malibu.svg"
+  },
+  {
+    "id": 3,
+    "name": "Wodka",
+    "abv": 40,
+    "automatic": true,
+    "price_per_liter": 12,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "wodka.svg"
+  },
+  {
+    "id": 4,
+    "name": "Pfirsichlikör",
+    "abv": 20,
+    "automatic": true,
+    "price_per_liter": 10,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "pfirsichlikoer.svg"
+  },
+  {
+    "id": 5,
+    "name": "Gin",
+    "abv": 37.5,
+    "automatic": true,
+    "price_per_liter": 16,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "gin.svg"
+  },
+  {
+    "id": 6,
+    "name": "Tequila",
+    "abv": 38,
+    "automatic": true,
+    "price_per_liter": 20,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "tequila.svg"
+  },
+  {
+    "id": 7,
+    "name": "Triple Sec",
+    "abv": 40,
+    "automatic": true,
+    "price_per_liter": 11,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "triple-sec.svg"
+  },
+  {
+    "id": 8,
+    "name": "Blue Curaçao",
+    "abv": 20,
+    "automatic": true,
+    "price_per_liter": 11,
+    "level_ml": 700.0,
+    "capacity_ml": 700,
+    "image": "blue-curacao.svg"
+  },
+  {
+    "id": 9,
+    "name": "Ananassaft",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 1.8,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "ananassaft.svg"
+  },
+  {
+    "id": 10,
+    "name": "Maracujasaft",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 3.0,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "maracujasaft.svg"
+  },
+  {
+    "id": 11,
+    "name": "Orangensaft",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 1.8,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "orangensaft.svg"
+  },
+  {
+    "id": 12,
+    "name": "Limettensaft",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 4.0,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "limettensaft.svg"
+  },
+  {
+    "id": 13,
+    "name": "Grenadine",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 5.0,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "grenadine.svg"
+  },
+  {
+    "id": 14,
+    "name": "Vanillesirup",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 8.0,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "vanillesirup.svg"
+  },
+  {
+    "id": 15,
+    "name": "Mandelsirup",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 8.0,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "mandelsirup.svg"
+  },
+  {
+    "id": 16,
+    "name": "Kokossirup",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 8.0,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "kokossirup.svg"
+  },
+  {
+    "id": 17,
+    "name": "Cola",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 1.2,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "cola.svg"
+  },
+  {
+    "id": 18,
+    "name": "Tonic Water",
+    "abv": 0,
+    "automatic": true,
+    "price_per_liter": 1.8,
+    "level_ml": 1000.0,
+    "capacity_ml": 1000,
+    "image": "tonic-water.svg"
+  },
+  {
+    "id": 19,
+    "name": "Sprudelwasser",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 0.6,
+    "level_ml": 0,
+    "capacity_ml": 1000,
+    "image": "sprudelwasser.svg"
+  },
+  {
+    "id": 20,
+    "name": "Sahne",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 2.5,
+    "level_ml": 0,
+    "capacity_ml": 1000,
+    "image": "sahne.svg"
+  },
+  {
+    "id": 21,
+    "name": "Cream of Coconut",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 7.0,
+    "level_ml": 0,
+    "capacity_ml": 1000,
+    "image": "cream-of-coconut.svg"
+  },
+  {
+    "id": 22,
+    "name": "Schweppes Wild Berry",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 1.8,
+    "level_ml": 0,
+    "capacity_ml": 1000,
+    "image": "schweppes-wild-berry.svg"
+  },
+  {
+    "id": 23,
+    "name": "Limettenscheibe",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 0,
+    "level_ml": 0,
+    "capacity_ml": 0,
+    "image": "limettenscheibe.svg"
+  },
+  {
+    "id": 24,
+    "name": "Mandelsplitter",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 0,
+    "level_ml": 0,
+    "capacity_ml": 0,
+    "image": "mandelsplitter.svg"
+  },
+  {
+    "id": 25,
+    "name": "Weißer Rum",
+    "abv": 40,
+    "automatic": true,
+    "price_per_liter": 15,
+    "level_ml": 700,
+    "capacity_ml": 700,
+    "image": "weisser-rum.svg"
+  },
+  {
+    "id": 26,
+    "name": "Orangenscheibe",
+    "abv": 0,
+    "automatic": false,
+    "price_per_liter": 0,
+    "level_ml": 0,
+    "capacity_ml": 0,
+    "image": "orangenscheibe.jpg"
+  }
+]

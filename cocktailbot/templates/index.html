@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>CocktailBot</title>
+  <link rel="stylesheet" href="/static/css/style.css?v={{ version }}">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Cocktail<span>Bot</span></div>
+    <nav class="tabs" id="tabs">
+      <button data-cat="cocktails" class="active">Cocktails</button>
+      <button data-cat="alkoholfrei">Alkoholfrei</button>
+      <button data-cat="shots">Shots</button>
+      <button data-cat="settings">Einstellungen</button>
+    </nav>
+    <span class="appver" id="appVer" title="Version"></span>
+    <div class="status-dot" id="mockBadge" title="Hardware-Status"></div>
+  </header>
+
+  <main id="main"></main>
+
+  <!-- Detail / Zubereitung -->
+  <div class="modal" id="detailModal" hidden>
+    <div class="sheet" id="detailSheet"></div>
+  </div>
+
+  <!-- Editor (Zutat / Rezept) -->
+  <div class="modal" id="editModal" hidden>
+    <div class="sheet" id="editSheet"></div>
+  </div>
+
+  <!-- Bezahlung (PayPal) -->
+  <div class="modal" id="checkoutModal" hidden>
+    <div class="sheet checkout" id="checkoutSheet"></div>
+  </div>
+
+  <!-- Fortschritt -->
+  <div class="modal" id="progressModal" hidden>
+    <div class="sheet progress">
+      <h2 id="progTitle">Zubereitung</h2>
+      <div class="bar"><div class="fill" id="progFill"></div></div>
+      <p id="progMsg">Start...</p>
+      <div id="progItems"></div>
+      <div id="progDone" hidden>
+        <div id="manualList"></div>
+        <button class="btn primary big" onclick="CB.ack()">Fertig</button>
+      </div>
+      <button class="btn danger" id="stopBtn" onclick="CB.stop()">Not-Aus</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script src="/static/js/app.js?v={{ version }}"></script>
+</body>
+</html>

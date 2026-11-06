@@ -1,0 +1,12 @@
+# Basis (PC + Pi)
+Flask>=3.0
+
+# Nur auf dem Raspberry Pi noetig (per apt installieren, siehe install_pi5.sh):
+#   python3-rpi-lgpio   -> RPi.GPIO-Kompatibilitaet fuer den Pi 5 (RP1)
+#   python3-serial      -> LED-Steuerung ueber den Pico 2 (optional)
+#   python3-qrcode      -> QR-Code im PayPal-Kassenmodus (optional)
+# pyserial ist auch via pip moeglich:
+pyserial>=3.5
+
+# Optional (QR fuer PayPal); auf dem Pi besser via apt python3-qrcode:
+qrcode>=7.0

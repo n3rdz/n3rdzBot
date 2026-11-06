@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "gpio_pin": 17,
+    "ingredient_id": 1,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "gpio_pin": 18,
+    "ingredient_id": 2,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "gpio_pin": 27,
+    "ingredient_id": 3,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "gpio_pin": 22,
+    "ingredient_id": 4,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "gpio_pin": 23,
+    "ingredient_id": 5,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "gpio_pin": 24,
+    "ingredient_id": 6,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "gpio_pin": 25,
+    "ingredient_id": 7,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "gpio_pin": 4,
+    "ingredient_id": 8,
+    "calibration_ml_per_s": 25.0,
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "gpio_pin": 5,
+    "ingredient_id": 9,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "gpio_pin": 6,
+    "ingredient_id": 10,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 11,
+    "number": 11,
+    "gpio_pin": 13,
+    "ingredient_id": 11,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "gpio_pin": 19,
+    "ingredient_id": 12,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "gpio_pin": 26,
+    "ingredient_id": 13,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "gpio_pin": 16,
+    "ingredient_id": 14,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "gpio_pin": 20,
+    "ingredient_id": 15,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "gpio_pin": 21,
+    "ingredient_id": 16,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "gpio_pin": 12,
+    "ingredient_id": 17,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "gpio_pin": 15,
+    "ingredient_id": 18,
+    "calibration_ml_per_s": 28.0,
+    "enabled": true
+  }
+]
